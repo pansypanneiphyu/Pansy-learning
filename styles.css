@@ -8,3 +8,9 @@ h1 {
   width: 200px;
   margin: 0 auto;
 }
+
+.hosting {
+  display: block;
+  width: 600px;
+  margin: 0 auto;
+}
